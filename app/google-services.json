@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219559501020",
+    "project_id": "hd-wallpaper-4b2ca",
+    "storage_bucket": "hd-wallpaper-4b2ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219559501020:android:012ce354bdf3966eb5e819",
+        "android_client_info": {
+          "package_name": "com.hellosolver.hdwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219559501020-nku1t1grbc8mkm7pvtagjp88jv1psdpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YFzxYqZ2m6cxo7_e8Nu_AC4RYlkrhwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219559501020-nku1t1grbc8mkm7pvtagjp88jv1psdpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
